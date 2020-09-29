@@ -2,11 +2,13 @@
 Algoritmos de Ordenação
 
 Sua tarefa nesse laboratório será codificar os algoritmos de ordenação no módulo 'sortAlgs.cpp' que estão apenas imprimindo a mensagem: 
-'''
+
+```
 +==================================+ 
 +=          Em construcao         =+ 
 +==================================+
-'''
+```
+
 Quais sejam: 'mergeSort()' e 'QuickSort'.
 
 Os dois algoritmos são recursivos em sua natureza, utiliza isso a seu favor. 
